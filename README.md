@@ -87,16 +87,8 @@
 
 
 ## 专业博客  
-- [互联网三高特性、要求和其设计方案](https://www.cnblogs.com/weidewozi/p/16292118.html)  
-  
-
-- [cv2识别视频中拥有人像的部分](https://www.cnblogs.com/weidewozi/p/15799771.html)  
-  
-
-- [机器学习模型学习](https://www.cnblogs.com/weidewozi/p/14277841.html)  
-  
-
-- [Maven web 项目发布服务器详解（购买->搭建->打包）](https://www.cnblogs.com/weidewozi/p/15758722.html)  
+- [大型网站技术架构论文](https://www.cnblogs.com/sakura-xxg/p/16292015.html)  
+ 
   
 
 <br/>  
